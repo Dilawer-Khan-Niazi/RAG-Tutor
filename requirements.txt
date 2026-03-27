@@ -1,0 +1,12 @@
+
+transformers
+sentence-transformers
+faiss-cpu
+pypdf
+gradio
+google-generativeai
+python-dotenv
+sqlalchemy
+pillow
+fastapi
+uvicorn[standard]
